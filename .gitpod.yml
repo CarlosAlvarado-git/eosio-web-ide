@@ -1,4 +1,4 @@
-image: eosio/eosio-web-ide
+image: eosio/eosio-web-ide:latest
 ports:
 - port: 3000
   onOpen: ignore
